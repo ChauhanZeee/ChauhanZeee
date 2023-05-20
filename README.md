@@ -1,6 +1,6 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>
-<h3 align="center">A passionate java Backend developer from India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
