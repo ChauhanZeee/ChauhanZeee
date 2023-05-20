@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/whosubu" target="blank"><img src="https://img.shields.io/twitter/follow/whosubu?logo=twitter&style=for-the-badge" alt="whosubu" /></a> </p>
 
-- 🌱 I’m currently learning **Html, Css**
+- 🌱 I’m currently learning **Full stack web daveloper**
 
 - 💬 Ask me about **Java, Spring boot**
 
